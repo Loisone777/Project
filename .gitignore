@@ -1,0 +1,16 @@
+# Vivado files
+*.jou
+*.log
+*.str
+*.cache
+*.runs
+*.sim
+*.hw
+*.ip_user_files
+*.Xil
+*.gen
+*.tmp
+
+# OS junk
+.DS_Store
+Thumbs.db
