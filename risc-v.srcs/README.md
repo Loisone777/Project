@@ -27,6 +27,7 @@ lw x4, 0(x0)
 ---
 
 ## Project Structure
+```
 riscv-5stage-cpu-verilog/
 │
 ├── sim/
@@ -56,6 +57,7 @@ riscv-5stage-cpu-verilog/
 │ ├── imem.mem
 │
 └── README.md
+```
 
 
 ---
